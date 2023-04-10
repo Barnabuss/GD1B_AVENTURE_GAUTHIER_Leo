@@ -1,0 +1,8 @@
+Le jeu est a lancer de préférence sur Google Chrome !
+Vous avez deux dossiers a disposition dont le "infographie 2D" concerne tout ce qui est demandé en infographie 2D.
+Le dossier "zelda-like Léo" contient le jeu ainsi que tout les assets du jeu.
+Vous avez aussi à disposition un PDF mettant en avant la recherche du level design, les intentions du projet et une présentation graphique de l'interface pour l'infographie 2D. 
+
+Pour la programmation, le fichier de code s'intitule "HI LAND !" et se situe dans le dossier "zeldalike Léo"
+
+Bon jeu sur HI LAND !
